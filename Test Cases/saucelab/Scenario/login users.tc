@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login users</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ebaa65d4-8ef7-40a7-be91-cdcab817e6ac</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value></value>
+      <variableId>0f5ab9d5-42cc-4fe0-926f-b70d289fa775</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value></value>
+      <variableId>d7224c38-df7d-4e81-a4b6-a5017ffdafc5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b16464d1-7d5c-40f9-942b-1eb9204c4746</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0f5ab9d5-42cc-4fe0-926f-b70d289fa775</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d7224c38-df7d-4e81-a4b6-a5017ffdafc5</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b16464d1-7d5c-40f9-942b-1eb9204c4746</id>
+      <masked>false</masked>
+      <name>tcName</name>
+   </variable>
+</TestCaseEntity>

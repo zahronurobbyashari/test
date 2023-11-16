@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>Training Data</name>
+   <name>Training Day 1</name>
    <tag></tag>
-   <UUID>7796db69-fd2d-49f8-8f51-1fde9ad71bcd</UUID>
+   <UUID>9526b828-5e10-423e-ace1-1c1fe232f7a7</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>D:\Training\Training Day 1\Training Day 1.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

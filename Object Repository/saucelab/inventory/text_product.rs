@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_product</name>
+   <tag></tag>
+   <elementGuidId>09c6799b-45a1-43a7-ba53-a639ac541829</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class='title']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@class='title']</value>
+      <webElementGuid>1ae4d170-598c-4c87-b6f5-248ea564dc4c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>in</name>
+   <tag></tag>
+   <elementGuidId>d9444c30-f58c-4df0-b19b-324bca4becb0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='sciInPut']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='sciInPut']</value>
+      <webElementGuid>da359a83-fc00-4838-b4da-d068c63cc6ce</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
